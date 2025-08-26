@@ -1,28 +1,28 @@
 ---
 permalink: /
-title: "EDUCATION"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-2018- 2020		Master of Information Technology and Systems (Coursework)		
-[![Alternate Text12](/images/The12guardians.jpg)](https://youtu.be/Vd1PT6b3p88)
- 			University of Tasmania, Australia
-                      Grade Point Average (GPA):5.69/7
-2013- 2016		Master of Mechanical Engineering (Research)								      
-Beijing Information Science and Technology University, China
-Course Weighted  Average Mark:84.18/100         
-Thesis Topic:	Research and Development of CNC Software for Non-Circular Profile Grinding Based on Siemens 					SINUMERIK 840D sl
-Details:		Two years and a half program(full-time). Thesis length 34,000 words, udertaken over two 							semesters. In this program, I carried out research based on the Siemens 840D sl CNC system, focusing 				on crankshaft and camshaft grinding. My work included the secondary development of CNC software, 				modeling of grinding trajectories and mathematical frameworks, the exploration of a constant material 				removal rate grinding method, as well as the design and implementation of a specialized CNC grinding 				interface, an integrated process database, and a remote data communication system.
-Supervisor:		Prof Qiushi Han
-2010-2012          Bachelor of Mechanical Engineering
-Qingdao University of Science and Technology, China
-Total Credits:89.5
-2007-2010		Diploma of Mechanical Manufacture and Automation
-Jinan Institute of Railway Technology, China
-Course Weighted  Average Mark:78.04/100
+Xiaoguang Li is the founder and part-time CEO of Annnew, engaging in software development, AI and robotics-related work. Prior to this role, he worked at Witron (Australia) as an operator and maintainer of logistics mechanical systems. Before joining Witron, he was a Software Engineer at QITPlus (Australia).
+
+He holds a Master’s degree in Information Technology and Systems (Coursework) from the University of Tasmania, Australia. Earlier, he earned a Master’s degree in Mechanical Engineering from Beijing Information Science and Technology University, China, and a Bachelor’s degree in Mechanical Engineering from Qingdao University of Science and Technology, China.	
+
+Research Interest:
+======
+AIGC, Physical AI
+
+
+Click the image below to watch the RPG game video The 12 Guardians.
+[![A game screenshot with a link to the game demo video](/images/The12guardians.jpg)](https://youtu.be/Vd1PT6b3p88)
+ 			
+
+
+
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
