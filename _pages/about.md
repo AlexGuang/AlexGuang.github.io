@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 2018- 2020		Master of Information Technology and Systems (Coursework)		
-
-[![Alternate Text12232]({https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1LcoRc.img?w=768&h=576&m=6})]({[https://youtu.be/Vd1PT6b3p88]} "Link Title")
+[![Alternate Text9](https://convertri.imgix.net/671af981-3097-11eb-abef-0697e5ca793e/5fe96eed94cf122a78314163660021eaa8a718cc/202001251803445562_5c86a688d0ad7a3e44316f32.jpg?auto=compress,format&fit=scale&w=960&h=480)](https://youtu.be/Vd1PT6b3p88)
  			University of Tasmania, Australia
                       Grade Point Average (GPA):5.69/7
 2013- 2016		Master of Mechanical Engineering (Research)								      
