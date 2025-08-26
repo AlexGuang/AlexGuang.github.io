@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Xiaoguang Li is the founder and part-time CEO of Annnew, engaging in software development, AI and robotics-related work. Prior to this role, he worked at Witron (Australia) as an operator and maintainer of logistics mechanical systems. Before joining Witron, he was a Software Engineer at QITPlus (Australia).
+Xiaoguang Li is a part-time software engineer of Annnew, engaging in software development, AI and robotics-related work. Prior to this role, he worked at Witron (Australia) as an operator and maintainer of logistics mechanical systems. Before joining Witron, he was a Software Engineer at QITPlus (Australia).
 
 He holds a Master’s degree in Information Technology and Systems (Coursework) from the University of Tasmania, Australia. Earlier, he earned a Master’s degree in Mechanical Engineering from Beijing Information Science and Technology University, China, and a Bachelor’s degree in Mechanical Engineering from Qingdao University of Science and Technology, China.	
 
@@ -16,7 +16,7 @@ Research Interest:
 AIGC, Physical AI
 
 
-Click the image below to watch the RPG game video The 12 Guardians.
+Click the image below to watch the RPG game video -The 12 Guardians.
 [![A game screenshot with a link to the game demo video](/images/The12guardians.jpg)](https://youtu.be/Vd1PT6b3p88)
  			
 
