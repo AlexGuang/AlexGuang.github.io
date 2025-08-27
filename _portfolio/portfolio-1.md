@@ -4,4 +4,6 @@ excerpt: "Third-player RPG PC Game<br/><a href='https://youtu.be/Vd1PT6b3p88'><i
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This is a story of justice and love. Step into another world as a fearless adventurer, unravel the mysteries of the Twelve Zodiac Guardians, and forge your path toward the final showdown against the Dark Overlord.
+
+[![A game screenshot with a link to the game demo video](/images/The12guardians.jpg)](https://youtu.be/Vd1PT6b3p88)
