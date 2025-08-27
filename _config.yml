@@ -75,7 +75,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : “https://youtu.be/Vd1PT6b3p88” # Username
+  youtube          : #“/watch?v=Vd1PT6b3p88” # Username
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
