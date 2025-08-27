@@ -5,4 +5,6 @@ collection: portfolio
 ---
 
 Discover the beauty of Tasmania’s Mount Wellington in this mobile game, where every step brings a new scene to explore.
+
+*** Click the image below to watch the RPG game video - [**The 12 Guardians**](https://www.youtube.com/watch?v=E68ZgQwC1oc). ***
 [![A game screenshot with a link to the game demo video](/images/Tasmania.jpg)](https://www.youtube.com/watch?v=E68ZgQwC1oc)

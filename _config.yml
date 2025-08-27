@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "XIAOGUANG LI"
+title                    : "Xiaoguang Li | Research"
 title_separator          : "-"
 name                     : &name "Xiaoguang Li"
 description              : &description "Software engineer at Annnew"
