@@ -9,10 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-
-
-
-======
 * 2018- 2020
   * Master of Information Technology and Systems
   * University of Tasmania, Australia
@@ -45,9 +41,23 @@ Work experience
 Skills and Competencies
 ======
 * Tools:
-  *AutoCAD, SolidWorks, MATLAB, Simulink, Git/GitHub, Jira, Linux Shell, Unity3d, Sharepoint, Docker, AWS cloud, Photoshop, Premiere, Postman, Wireshark
+  * AutoCAD
+  * SolidWorks
+  * MATLAB
+  * Simulink
+  * Git/GitHub
+  * Jira
+  * Linux 
+  * Unity3d
+  * Sharepoint
+  * Docker
+  * AWS 
+  * Photoshop
+  * Premiere
+  * Postman
+  * Wireshark
 * Programming Languages:
-  * C#, C, Javascript, Python, C++, HTML5, CSS3, JSON, XML,YAML   
+  * C#， C, Javascript, Python, C++, HTML5, CSS3, JSON, XML,YAML   
   
 * Database: 
   * SQL Server, MongoDB
@@ -56,10 +66,10 @@ Skills and Competencies
 * Controllers: 
    * Microcontroller, PLC
 * Personal Projects: 
-  * Third-player RPG PC Game: The 12 Guardians (Unity3D C#) URL:https://youtu.be/Vd1PT6b3p88
-  * First-player RPG Mobile Game: Welcome to Tasmania(Unity3D C#) ,URL:https://www.youtube.com/watch?v=E68ZgQwC1oc
-  * My tech blog website (Node.js, MongoDB, Markdown, Heroku),Source: https://github.com/AlexGuang/BlogWebsitePersonal
-  * Staff information management B/S website (.NET Core MVC, Entity Framework, MS SQL Server, Bootstrap)    Source:https://github.com/AlexGuang/.NetCoreStudy
+  * [Third-player RPG PC Game: The 12 Guardians (Unity3D C#)](https://youtu.be/Vd1PT6b3p88)
+  * [First-player RPG Mobile Game: Welcome to Tasmania(Unity3D C#)](https://www.youtube.com/watch?v=E68ZgQwC1oc)
+  * [My tech blog website (Node.js, MongoDB, Markdown, Heroku)](https://github.com/AlexGuang/BlogWebsitePersonal)
+  * [Staff information management B/S website (.NET Core MVC, Entity Framework, MS SQL Server, Bootstrap)](https://github.com/AlexGuang/.NetCoreStudy)
 
 
 Grants & Awards
@@ -76,8 +86,7 @@ Grants & Awards
     * 25% reduction in registered tuition fees
     * University of Tasmania
 * 2022
-  * AWS Certified Solutions Architect - Associate Certificate 
-    * URL: https://aws.amazon.com/verification
+  * [AWS Certified Solutions Architect - Associate Certificate](https://aws.amazon.com/verification)
     * Verification Code: GHX6S4525NEE16KS
 
 
