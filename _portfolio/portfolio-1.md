@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "The 12 Guardians"
+excerpt: "Third-player RPG PC Game<br/><a href='https://youtu.be/Vd1PT6b3p88'><img src='/images/The12guardians.jpg'></a>"
 collection: portfolio
 ---
 

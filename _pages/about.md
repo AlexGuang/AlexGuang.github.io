@@ -9,20 +9,23 @@ redirect_from:
 
 Xiaoguang Li is a part-time software engineer of Annnew, engaging in software development, AI and robotics-related work. Prior to this role, he worked at Witron (Australia) as an operator and maintainer of logistics mechanical systems. Before joining Witron, he was a Software Engineer at QITPlus (Australia).
 
-He holds a Master’s degree in Information Technology and Systems (Coursework) from the University of Tasmania, Australia. Earlier, he earned a Master’s degree in Mechanical Engineering from Beijing Information Science and Technology University, China, and a Bachelor’s degree in Mechanical Engineering from Qingdao University of Science and Technology, China.	
+He holds a Master’s degree in Information Technology and Systems from the University of Tasmania, Australia. Earlier, he earned a Master’s degree in Mechanical Engineering from Beijing Information Science and Technology University, China, and a Bachelor’s degree in Mechanical Engineering from Qingdao University of Science and Technology, China.	
 
 Research Interest:
 ======
 AIGC, Physical AI
 
 
-Click the image below to watch the RPG game video -The 12 Guardians.
+
+Game Demo
+------
+Click the image below to watch the RPG game video - [**The 12 Guardians**](https://youtu.be/Vd1PT6b3p88).
 [![A game screenshot with a link to the game demo video](/images/The12guardians.jpg)](https://youtu.be/Vd1PT6b3p88)
  			
 
 
 
-
+<!--
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
@@ -66,3 +69,4 @@ Example: editing a Markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+-->
