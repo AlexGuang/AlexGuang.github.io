@@ -13,7 +13,7 @@ He holds a Master’s degree in Information Technology and Systems from the Univ
 
 Research Interest:
 ======
-AIGC, Physical AI
+Physical AI, Intelligent Manufacturing, AIGC
 
 <!--
 
