@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Xiaoguang Li is a part-time software engineer of Annnew, engaging in software development, AI and robotics-related work. Prior to this role, he worked at Witron (Australia) as an operator and maintainer of logistics mechanical systems. Before joining Witron, he was a Software Engineer at QITPlus (Australia).
+Xiaoguang Li is a part-time software engineer of XRobot Academy, engaging in software development, AI and robotics-related work. Prior to this role, he worked at Witron (Australia) as an operator and maintainer of logistics mechanical systems. Before joining Witron, he was a Software Engineer at QITPlus (Australia).
 
 He holds a Master’s degree in Information Technology and Systems from the University of Tasmania, Australia. Earlier, he earned a Master’s degree in Mechanical Engineering from Beijing Information Science and Technology University, China, and a Bachelor’s degree in Mechanical Engineering from Qingdao University of Science and Technology, China.	
 
